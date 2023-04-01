@@ -13,7 +13,7 @@
 # PASKA by Kabyle
 <img
   width="120"
-  src="resources/Logo1-paska-CHCH.png"
+  src="resources/Logo1-paska-CHCH.jpg"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
