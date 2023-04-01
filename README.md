@@ -6,7 +6,7 @@
 ![PalabraKabyle](resources/LogoKabyle-Sinfondo-palabraKabYle.png)
 
 <img
-  width="32"
+  width="120"
   src="resources/LogoKabyle-Sinfondo-palabraKabYle.png"
   alt="Alt text"
   title="Optional title"
