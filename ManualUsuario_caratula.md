@@ -20,6 +20,7 @@
   
 <!---![Logo1-paska-CHCH](https://user-images.githubusercontent.com/111294790/187100277-dbd68fe2-9f6e-4175-b8bc-5bff73e4aed4.jpg)--->
 # PASKA by Kabyle
+## Manual de Usuario 
 ### [M0 - Administración del Sistema](./0-AdministracionDelSistema_caratula.md)
 ### [M1 - Gestión de Personal](./1-GestionDePersonal_caratula.md)
 ### [M2 - Gestión del Tiempo](./2-GestionDelTiempo_caratula.md)
