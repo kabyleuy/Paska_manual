@@ -30,8 +30,8 @@
 ### [M6 - Gestión de Producción](./M6-GPR_caratula.md)
 ### [M7 - Gestión Integral](./M7-GI_caratula.md)
 
-##### [Volver](./Readme.md) 
-##### [Inicio](./Readme.md)  
+##### [Volver](./README.md) 
+##### [Inicio](./README.md)  
 
 <!---#### [Contacto](./Contacto.md)--->
  
