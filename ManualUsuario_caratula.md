@@ -2,7 +2,7 @@
 <!---![PalabraKabyle](resources/LogoKabyle-Sinfondo-palabraKabYle.png)--->
 
 <img
-  width="120"
+  width="80"
   src="resources/LogoKabyle-Sinfondo-palabraKabYle.png"
   alt="Alt text"
   title="Optional title"
