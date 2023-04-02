@@ -23,5 +23,5 @@
 
 ### [Manual de usuario](./ManualUsuario_caratula.md)
 
-##### [Contacto](./Contacto.md)
+<!---##### [Contacto](./Contacto.md)--->
  
