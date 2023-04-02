@@ -30,6 +30,6 @@
 ### [M0.6 - Informes](./M0.6_Informes_caratula.md)
 
 ##### [Volver](./ManualUsuario.md) 
-##### [Inicio](./Readme.md)  
+##### [Inicio](./README.md)  
 <!---#### [Contacto](./Contacto.md)--->
  
