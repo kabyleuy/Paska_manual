@@ -21,7 +21,7 @@
   # PASKA by Kabyle
 <!---![Logo1-paska-CHCH](https://user-images.githubusercontent.com/111294790/187100277-dbd68fe2-9f6e-4175-b8bc-5bff73e4aed4.jpg)--->
 
-### [Manual de usuario](./ManualUsuario_caratula.md)
+### [Manual de usuario](./ManualUsuario.md)
 
 <!---##### [Contacto](./Contacto.md)--->
  
