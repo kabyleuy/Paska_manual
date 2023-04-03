@@ -22,14 +22,18 @@
 # PASKA by Kabyle
 ## M1 - Gestión de Personal
 ###
-### [M1.1 - Alta de Obra](./M1.1_AltaObra.md)
-### [M1.2 - Categorias de personal](./M1.2-CategoriasDePersonal.md)
-### [M1.3 - Baja de personal de Obra](./M1.3_BajaPersonalDeObra.md)
-### [M1.4 - Modificación de horarios de Obra](./M1.4_ModHorariosObra.md)
-### [M1.5 - Faltas disciplinarias](./M1.5_FaltasDisciplinarias.md)
-### [M1.6 - Altas/Bajas de personal de subcontratos](./M1.6_AltasBajasPersonalSubcontratos.md)
-### [M1.7 - Informes](./M1.7_Informes_caratula.md)
-### [M1.8 - Alertas](./M1.8_Alertas.md)
+### [M1.1 - Alta de obra](./M1.1_AltaObra.md)
+### [M1.2 - Modificar datos de obra](./M1.2_ModiicarDatosObra.md)
+### [M1.3 - Horas de lluvia](./M1.3_HorasLluvia.md)
+### [M1.4 - Turnos](./M1.4_Turnos.md)
+### [M1.5 - Categorias de personal](./M1.5-CategoriasDePersonal.md)
+### [M1.6 - Operarios](./M1.6_Operarios.md)
+### [M1.7 - Vencimiento de documentos](./M1.7_VencDocs.md)
+### [M1.8 - Faltas disciplinarias](./M1.8_FaltasDisciplinarias.md)
+### [M1.9 - Paros de la industria](./M1.9_ParosIndustria.md)
+### [M1.10 - Gestión de operarios de subcontratos](./M1.10_GestionOperariosSubcontratos.md)
+### [M1.11 - Informes](./M1.11_Informes_caratula.md)
+### [M1.12 - Alertas](./M1.12_Alertas.md)
 
 ##### [Indice de módulos](./ManualUsuario.md) 
 ##### [Inicio](./README.md)  
