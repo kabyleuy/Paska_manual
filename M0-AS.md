@@ -5,16 +5,14 @@
   width="80"
   src="resources/LogoKabyle-Sinfondo-palabraKabYle.png"
   alt="Alt text"
-  title="Optional title"
+  title="Kabyle SAS"
   style="display: inline-block; margin: 0 auto; max-width: 300px"
   align=right>
-
-
 <img
   width="120"
   src="resources/Logo1-paska-CHCH.jpg"
   alt="Alt text"
-  title="Optional title"
+  title="Paska by Kabyle"
   style="display: inline-block; margin: 0 auto; max-width: 300px"
   align=left>
   
