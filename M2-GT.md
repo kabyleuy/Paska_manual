@@ -17,7 +17,7 @@
   align=left>
 <!---![Logo1-paska-CHCH](https://user-images.githubusercontent.com/111294790/187100277-dbd68fe2-9f6e-4175-b8bc-5bff73e4aed4.jpg)--->
 # PASKA by Kabyle
-## M2 - Gestión del Tiempo
+## Gestión del Tiempo (M2)
 ###
 ### [M2.1 - Calendario laboral](./M2.1-CalendarioLaboral.md)
 ### [M2.2 - Plan de tareas](./M2.2_PlanTareas.md)
@@ -28,7 +28,7 @@
 ### [M2.7 - Informes](./M2.7_Informes_caratula.md)
 ### [M2.8 - Alertas](./M2.8_Alertas.md)
 
-##### [Indice de módulos](./ManualUsuario.md) 
+##### [Índice de módulos](./ManualUsuario.md) 
 ##### [Inicio](./README.md)  
 <!---#### [Contacto](./Contacto.md)--->
  
