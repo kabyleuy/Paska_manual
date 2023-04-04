@@ -17,7 +17,7 @@
   align=left>
 <!---![Logo1-paska-CHCH](https://user-images.githubusercontent.com/111294790/187100277-dbd68fe2-9f6e-4175-b8bc-5bff73e4aed4.jpg)--->
 # PASKA by Kabyle
-## M1 - Gestión de Personal
+## Gestión de Personal (M1)
 ###
 ### [M1.1 - Alta de obra](./M1.1_AltaObra.md)
 ### [M1.2 - Modificar datos de obra](./M1.2_ModiicarDatosObra.md)
@@ -32,7 +32,7 @@
 ### [M1.11 - Informes](./M1.11_Informes_caratula.md)
 ### [M1.12 - Alertas](./M1.12_Alertas.md)
 
-##### [Indice de módulos](./ManualUsuario.md) 
+##### [Índice de módulos](./ManualUsuario.md) 
 ##### [Inicio](./README.md)  
 <!---#### [Contacto](./Contacto.md)--->
  
