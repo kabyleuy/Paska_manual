@@ -18,7 +18,7 @@
   
 <!---![Logo1-paska-CHCH](https://user-images.githubusercontent.com/111294790/187100277-dbd68fe2-9f6e-4175-b8bc-5bff73e4aed4.jpg)--->
 # PASKA by Kabyle
-## M0 - Administración del Sistema
+## Administración del Sistema (M0)
 ###
 ### [M0.1 - Creación de usuarios del sistema](./M0.1_CreacionUsuarios.md)
 ### [M0.2 - Creación de obra](./M0.2-CreacionObra.md)
