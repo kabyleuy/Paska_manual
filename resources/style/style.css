@@ -1,0 +1,27 @@
+html {
+  font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high */
+  font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+  color: brown;
+  font-size: 60px;
+  text-align: center; 
+}
+
+h2 {
+  color: black;
+  font-size: 40px;
+  text-align: center;
+}
+
+h3 {
+  color: black;
+  font-size: 20px;
+  text-align: left;
+}
+
+button,input,select,textarea {
+    font: inherit;
+    margin: 0
+}
