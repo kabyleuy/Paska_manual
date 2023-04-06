@@ -27,7 +27,7 @@
 ### [M0.5 - Descarga de datos - Fin de Obra](./M0.5_DescargaDatos.md)
 ### [M0.6 - Informes](./M0.6_Informes_caratula.md)
 
-##### [Índice de módulos](./ManualUsuario.md) 
+##### [Índice de módulos](./IndiceDeModulos.md) 
 ##### [Inicio](./README.md)  
 <!---#### [Contacto](./Contacto.md)--->
  
