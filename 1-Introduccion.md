@@ -31,7 +31,7 @@ y 55 informes de actividad y análisis de la misma, es una potente herramienta q
 a la gestión de la ejecución de obra y por tanto permite actuar a tiempo para mejorar los resultados de la misma.    \
 \
 Genera registro de conocimiento, contrastable y verificable, aplicable a obras posteriores.
-##### [Módulos del sistema](./2-IndiceDeModulos.md)
+##### [Siguiente](./2-IndiceDeModulos.md)
 ##### [Indice de contenido](./0-IndicePpal.md) 
 ##### [Inicio](./README.md)  
 
