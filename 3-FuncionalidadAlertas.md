@@ -49,7 +49,7 @@ Ordenadas por fecha de emisión de las mismas independientemente si es operativa
 Se diferencian por el color del fondo, amarillo para las informativas y rojo para las operativas.  \
 **NOTA: (Poner imagen con indicaciones)**  \
 \
-Seleccionando cualquiera de las ventanas en cascada, la misma pasa al frente y puede gestionarse.  \ 
+Seleccionando cualquiera de las ventanas en cascada, la misma pasa al frente y puede gestionarse.  \
 **NOTA: (Poner imagen)**  \
 Presionando el ángulo superior derecho de la ventana activa se cierran todas   \
 **NOTA: (poner imagen)**  \
