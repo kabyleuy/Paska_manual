@@ -28,7 +28,8 @@
 ### [M2.7 - Informes](./M2.7_Informes_caratula.md)
 ### [M2.8 - Alertas](./M2.8_Alertas.md)
 
-##### [Índice de módulos](./ManualUsuario.md) 
+##### [Índice de módulos](./2-IndiceDeModulos.md) 
+##### [Índice de contenido](./0-IndicePpal.md) 
 ##### [Inicio](./README.md)  
 <!---#### [Contacto](./Contacto.md)--->
  
