@@ -39,27 +39,27 @@ El objetivo de estas alertas es mantener informado al usuario receptor, en tiemp
 Generan un registro histórico de toda la obra, que se visualiza en el correspondiente informe de cada módulo.  
 
 ### Funcionamiento  
-Ambas alertas se anuncian en simultáneo a través del ícono **NOTA: (poner el icono una vez definido)** que aparece en el ángulo superior derecho de la pantalla del usuario, como se muestra en la siguiente imagen.  <br>
-**NOTA: (Poner imagen de pantalla)**  <br>
+Ambas alertas se anuncian en simultáneo a través del ícono <strong>NOTA: (poner el icono una vez definido)</strong> que aparece en el ángulo superior derecho de la pantalla del usuario, como se muestra en la siguiente imagen.  <br>
+<strong>NOTA: (Poner imagen de pantalla)</strong>  <br>
 <br>
 En el icono se indican la cantidad de alertas informativas y operativas que el usuario tiene activas.  <br>
-**NOTA: (Insertar imagen agrandada del icono de alerta con descripción de cada elemento)**  <br>
+<strong>NOTA: (Insertar imagen agrandada del icono de alerta con descripción de cada elemento)</strong>  <br>
 <br>
 Al tocar sobre el ícono de pantalla se despliega en cascada las distintas alertas activas al momento.  <br>
 Ordenadas por fecha de emisión de las mismas independientemente si es operativa o informativa.  <br>
 Se diferencian por el color del fondo, amarillo para las informativas y rojo para las operativas.  <br>
-**NOTA: (Poner imagen con indicaciones)**  <br>
+<strong>NOTA: (Poner imagen con indicaciones)</strong>  <br>
 <br>
 Seleccionando cualquiera de las ventanas en cascada, la misma pasa al frente y puede gestionarse.  <br>
-**NOTA: (Poner imagen)**  <br>
+<strong>NOTA: (Poner imagen)</strong>  <br>
 <br>
 Presionando el ángulo superior derecho de la ventana activa se cierran todas   <br>
-**NOTA: (poner imagen)**  <br>
+<strong>NOTA: (poner imagen)</strong>  <br>
 <br>
-Si hay alertas por gestionar el ícono que indica alertas activas se mantiene en el ángulo superior derecho de la pantalla **NOTA: (imagen)**, en caso que no existan alertas activas el icono desaparece.  
+Si hay alertas por gestionar el ícono que indica alertas activas se mantiene en el ángulo superior derecho de la pantalla <strong>NOTA: (imagen)</strong>, en caso que no existan alertas activas el icono desaparece.  
 
 #### Alertas Informativas  
-Aporta la siguiente información : **NOTA: (imagen con indicaciones)**  
+Aporta la siguiente información : <strong>NOTA: (imagen con indicaciones)</strong>  
 * Número de alerta, el dígito de la izquierda indica el módulo a que corresponde, los dígitos de la derecha el número específico de alerta dentro del módulo 
 * Nombre del alerta, según corresponda 
 * Fecha, indica la fecha de emisión del alerta y establece el criterio con que se muestran, por orden de emisión. 
@@ -69,7 +69,7 @@ Aporta la siguiente información : **NOTA: (imagen con indicaciones)**
 * Nombre de la obra, indica el nombre de la obra a la que pertenece el alerta.  
 
 #### Alertas Operativas  
-Aporta la siguiente información : **NOTA: (imagen con indicaciones)** 
+Aporta la siguiente información : <strong>NOTA: (imagen con indicaciones)</strong> 
 * Numero de alerta, el dígito de la izquierda indica el módulo a que corresponde, los dígitos de la derecha el número específico de alerta dentro del módulo
 * Nombre del alerta, según corresponda
 * Fecha, indica la fecha de emisión del alerta y establece el criterio con que se muestran, por orden de emisión.
@@ -79,7 +79,7 @@ Aporta la siguiente información : **NOTA: (imagen con indicaciones)**
 * Nombre de la obra, indica en nombre de la obra a la que pertenece el alerta.  
   
 #### Cuadro de Alertas del sistema  
-**NOTA: Una vez terminado el diseño incorporar planilla con las alertas por modulo**  <br>
+<strong>NOTA: Una vez terminado el diseño incorporar planilla con las alertas por modulo</strong>  <br>
 <br>
 ##### [Anterior](./2-IndiceDeModulos.md)       [Siguiente](./4-AreasYPerfiles.md) 
 
