@@ -19,7 +19,7 @@
 <!---![Logo1-paska-CHCH](https://user-images.githubusercontent.com/111294790/187100277-dbd68fe2-9f6e-4175-b8bc-5bff73e4aed4.jpg)--->
 # PASKA by Kabyle
 ## Introducción
-
+<p
 El sistema Paska está formado por ocho módulos de gestión y un generador de alertas en tiempo real.
 Las funcionalidades de los módulos son de acumulación progresiva y cada uno trata un aspecto específico dentro del universo de la gestión de ejecución de la obra,
 en tanto que el generador de alertas mantiene informados en tiempo real a todos los actores que intervienen, y deben intervenir, en los procesos de gestión.
@@ -27,9 +27,9 @@ Los diferentes actores están definidos a través de sus roles en la gestión, y
 Con 10 roles pre definidos, 16 variables configurables, 33 formularios de ingreso de datos al sistema, 53 alertas automáticas de trazabilidad registrada, 
 y 55 informes de actividad y análisis de la misma, es una potente herramienta que brinda información en tiempo real sobre los distintos aspectos que hacen 
 a la gestión de la ejecución de obra y por tanto permite actuar a tiempo para mejorar los resultados de la misma.
-Genera registro de conocimiento, contrastable y verificable, aplicable a obras posteriores.
-##### [Módulos del sistema](./IndiceDeModulos.md)
-##### [Indice de contenido](./IndicePpal.md) 
+Genera registro de conocimiento, contrastable y verificable, aplicable a obras posteriores. </p>
+##### [Módulos del sistema](./2-IndiceDeModulos.md)
+##### [Indice de contenido](./0-IndicePpal.md) 
 ##### [Inicio](./README.md)  
 
 <!---#### [Contacto](./Contacto.md)--->
