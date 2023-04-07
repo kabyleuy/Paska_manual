@@ -32,7 +32,8 @@
 ### [M1.11 - Informes](./M1.11_Informes_caratula.md)
 ### [M1.12 - Alertas](./M1.12_Alertas.md)
 
-##### [Índice de módulos](./ManualUsuario.md) 
+##### [Índice de módulos](./2-IndiceDeModulos.md) 
+##### [Índice de contenido](./0-IndicePpal.md) 
 ##### [Inicio](./README.md)  
 <!---#### [Contacto](./Contacto.md)--->
  
