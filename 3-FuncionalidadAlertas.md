@@ -81,7 +81,9 @@ Se diferencian por el color del fondo, amarillo para las informativas y rojo par
 #### Cuadro de Alertas del sistema  
 > <strong>NOTA: Una vez terminado el diseño incorporar planilla con las alertas por modulo</strong>  <br>
 > <br>
-##### [Anterior](./2-IndiceDeModulos.md)       [Siguiente](./4-AreasYPerfiles.md) 
+##### [Anterior](./2-IndiceDeModulos.md)       
+
+##### [Siguiente](./4-AreasYPerfiles.md) 
 
 ##### [Indice de contenido](./0-IndicePpal.md) 
 
