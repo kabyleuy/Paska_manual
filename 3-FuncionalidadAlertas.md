@@ -29,8 +29,9 @@ Se dividen en dos tipos:
 * Alertas Operativas  
 \
 Una misma alerta puede tener ambas características en función de sus destinatarios, pero solo una característica específica para cada destinatario.  \
+
 ### Alertas Informativas 
-El objetivo de estas alertas es mantener informado al usuario, en tiempo real, sobre los distintos eventos que hacen a su rol en la gestión de obra. \ 
+El objetivo de estas alertas es mantener informado al usuario, en tiempo real, sobre los distintos eventos que hacen a su rol en la gestión de obra.  \
 Son archivables, no se pueden borrar, se pueden cerrar implicando que se dió por enterado y generan un registro histórico de toda la obra, que se visualiza en el correspondiente informe de cada módulo.  
 
 ### Alertas Operativas  
@@ -40,7 +41,7 @@ Generan un registro histórico de toda la obra, que se visualiza en el correspon
 ### Funcionamiento  
 Ambas alertas se anuncian en simultáneo a través del ícono **NOTA: (poner el icono una vez definido)** que aparece en el ángulo superior derecho de la pantalla del usuario, como se muestra en la siguiente imagen.  \
 **NOTA: (Poner imagen de pantalla)**
-En el icono se indican la cantidad de alertas informativas y operativas que el usuario tiene activas.   \ 
+En el icono se indican la cantidad de alertas informativas y operativas que el usuario tiene activas.  \
 **NOTA: (Insertar imagen agrandada del icono de alerta con descripción de cada elemento)**  \
 \
 Al tocar sobre el ícono de pantalla se despliega en cascada las distintas alertas activas al momento.  \
@@ -65,15 +66,15 @@ Datos del alerta, aporta información adicional sobre el alerta en función de l
 Nombre de la obra, indica el nombre de la obra a la que pertenece el alerta.  
 
 #### Alertas Operativas  
-Aporta la siguiente información **NOTA: (imagen con indicaciones)**
+Aporta la siguiente información **NOTA: (imagen con indicaciones)**  \
 Numero de alerta, el dígito de la izquierda indica el módulo a que corresponde, los dígitos de la derecha el número específico de alerta dentro del módulo  \
 Nombre del alerta, según corresponda  \
 Fecha, indica la fecha de emisión del alerta y establece el criterio con que se muestran, por orden de emisión.  \
 Tipo del alerta según corresponda, Operativa  \
 Cuadro de validación, al tocar sobre el mismo las alertas operativas re direccionan al formulario donde es requerida la acción, solo se archivan y desaparecen una vez resuelta la acción solicitada.  \
 Datos del alerta, aporta información adicional sobre el alerta en función de la misma  \
-Nombre de la obra, indica en nombre de la obra a la que pertenece el alerta.  
-
+Nombre de la obra, indica en nombre de la obra a la que pertenece el alerta.  \  
+  
 #### Cuadro de Alertas del sistema  
 **NOTA: Una vez terminado el diseño incorporar planilla con las alertas por modulo**
 ##### [Siguiente](./4-AreasYPerfiles.md) 
