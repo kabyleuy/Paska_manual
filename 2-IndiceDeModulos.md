@@ -27,7 +27,8 @@
 ### [M5 - Gestión de Subcontratos](./M5-GSC_caratula.md)
 ### [M6 - Gestión de Producción](./M6-GPR_caratula.md)
 ### [M7 - Gestión Integral](./M7-GI_caratula.md)
-
+##### [Anterior](./1-Introduccion.md) 
+##### [Siguiente](./3-FuncionalidadAlertas.md)
 ##### [Indice de contenido](./0-IndicePpal.md) 
 ##### [Inicio](./README.md)  
 
