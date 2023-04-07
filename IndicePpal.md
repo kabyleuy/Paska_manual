@@ -19,7 +19,7 @@
 <!---![Logo1-paska-CHCH](https://user-images.githubusercontent.com/111294790/187100277-dbd68fe2-9f6e-4175-b8bc-5bff73e4aed4.jpg)--->
 # PASKA by Kabyle
 ## Manual de usuario
-## Indice de Contenido
+
 ### [Introducción](./Introduccion.md)
 ### [Índice de módulos del sistema](./IndiceDeModulos.md)
 ### [Funcionalidad de alertas](./FuncionalidadAlertas.md)
