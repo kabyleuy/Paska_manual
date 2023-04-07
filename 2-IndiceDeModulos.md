@@ -28,7 +28,7 @@
 ### [M6 - Gestión de Producción](./M6-GPR_caratula.md)
 ### [M7 - Gestión Integral](./M7-GI_caratula.md)
 
-##### [Indice de contenido](./IndicePpal.md) 
+##### [Indice de contenido](./0-IndicePpal.md) 
 ##### [Inicio](./README.md)  
 
 <!---#### [Contacto](./Contacto.md)--->
