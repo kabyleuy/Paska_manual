@@ -24,12 +24,12 @@ Esta funcionalidad brinda información en tiempo real sobre los diferentes proce
 \
 Las alertas se generan por una acción o inacción de alguno de los operadores, así como también en forma automática en función de determinados procesos que el sistema controla permanentemente generando información sobre el estado de los mismos, muchas de ellas en función de las configuraciones personalizadas que se hicieron.  \
 \
-Se dividen en dos tipos:  \
+Se dividen en dos tipos:  
 * Alertas Informativas  
 * Alertas Operativas  
 \
 Una misma alerta puede tener ambas características en función de sus destinatarios, pero solo una característica específica para cada destinatario.  \
-###Alertas Informativas \
+### Alertas Informativas \
 El objetivo de estas alertas es mantener informado al usuario, en tiempo real, sobre los distintos eventos que hacen a su rol en la gestión de obra. \ 
 Son archivables, no se pueden borrar, se pueden cerrar implicando que se dió por enterado y generan un registro histórico de toda la obra, que se visualiza en el correspondiente informe de cada módulo.  \
 \
