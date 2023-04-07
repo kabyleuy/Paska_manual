@@ -20,11 +20,11 @@
 # PASKA by Kabyle
 ## Manual de usuario
 
-### [Introducción](./Introduccion.md)
-### [Índice de módulos del sistema](./IndiceDeModulos.md)
-### [Funcionalidad de alertas](./FuncionalidadAlertas.md)
-### [Áreas y perfiles de usuario](./AreasYPerfiles.md)
-### [Ingreso al sistema](./IngresoSistema.md)
+### [Introducción](./1-Introduccion.md)
+### [Índice de módulos del sistema](./2-IndiceDeModulos.md)
+### [Funcionalidad de alertas](./3-FuncionalidadAlertas.md)
+### [Áreas y perfiles de usuario](./4-AreasYPerfiles.md)
+### [Ingreso al sistema](./5-IngresoSistema.md)
 
 ##### [Inicio](./README.md)  
 
