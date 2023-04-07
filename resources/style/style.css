@@ -3,6 +3,12 @@ html {
   font-family: 'Quicksand', sans-serif;
 }
 
+p {
+  color: brown;
+  font-size: 60px;
+  text-align: center; 
+}
+
 h1 {
   color: brown;
   font-size: 60px;
