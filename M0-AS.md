@@ -20,15 +20,17 @@
 # PASKA by Kabyle
 ## Administración del Sistema (M0)
 ###
+
 ### [M0-1 - Licencias](./M0.1-Licencias.md)
-#### [M0-1.1 - Crear Obra](./M0.1.1-CrearObra.md)
-#### [M0-1.2 - Editar Obra](./M0.1.2-EditarObra.md)
+
+&nbsp; &nbsp; &nbsp; &nbsp; [M0-1.1 - Crear Obra](./M0.1.1-CrearObra.md)  <br>
+&nbsp; &nbsp; &nbsp; &nbsp; [M0-1.2 - Editar Obra](./M0.1.2-EditarObra.md)  <br>
 ### [M0-2 - Administración de usuarios de empresa](./M0.2-AdministracionUsuariosEmpresa.md)
-#### [M0-2.1 - Filtrar usuarios por obra](./M0.2.1-FiltrarUsuariosxObra.md)
-#### [M0-2.2 - Agregar usuario de empresa](./M0.2.2-AgregarUsuarioEmpresa.md)
-#### [M0-2.3 - Editar usuario de empresa](./M0.2.3-EditarUsuarioEmpresa.md)
-#### [M0-2.4 - Asignar usuario a una obra](./M0.2.4-AsignarUsuarioAObra.md)
-#### [M0-2.5 - Asignar área a usuario en obra](./M0.2.5-AsignarAreaUsuarioObra.md)
+&nbsp; &nbsp; &nbsp; &nbsp; [M0-2.1 - Filtrar usuarios por obra](./M0.2.1-FiltrarUsuariosxObra.md)  <br>
+&nbsp; &nbsp; &nbsp; &nbsp; [M0-2.2 - Agregar usuario de empresa](./M0.2.2-AgregarUsuarioEmpresa.md)  <br>
+&nbsp; &nbsp; &nbsp; &nbsp; [M0-2.3 - Editar usuario de empresa](./M0.2.3-EditarUsuarioEmpresa.md)  <br>
+&nbsp; &nbsp; &nbsp; &nbsp; [M0-2.4 - Asignar usuario a una obra](./M0.2.4-AsignarUsuarioAObra.md)  <br>
+&nbsp; &nbsp; &nbsp; &nbsp; [M0-2.5 - Asignar área a usuario en obra](./M0.2.5-AsignarAreaUsuarioObra.md)
 ### [M0-3 - Descarga de datos - Fin de Obra](./M0.3-DescargaDatos.md)
 ### [M0-4 - Informes del M0](./M0.4-Informes_M0.md)
 
