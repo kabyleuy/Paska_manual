@@ -23,10 +23,11 @@
 **NOTA: Una vez terminado el diseño incorporar planilla con los roles y perfiles**
 <br>
 <br>
-##### [Siguiente](./5-IngresoSistema.md)                 [Anterior](./3-FuncionalidadAlertas.md)
-
+#####  [Anterior](./3-FuncionalidadAlertas.md)
+#####  [Siguiente](./5-IngresoSistema.md) 
+<br>
 ##### [Indice de contenido](./0-IndicePpal.md) 
-
+<br>
 ##### [Inicio](./README.md)  
 
 <!---#### [Contacto](./Contacto.md)--->
