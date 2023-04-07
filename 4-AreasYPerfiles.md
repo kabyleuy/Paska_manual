@@ -21,8 +21,8 @@
 ## Áreas y perfiles de usuario.
 \
 **NOTA: Una vez terminado el diseño incorporar planilla con los roles y perfiles**
-\
-\
+<br>
+<br>
 ##### [Siguiente](./5-IngresoSistema.md)                 [Anterior](./3-FuncionalidadAlertas.md)
 
 ##### [Indice de contenido](./0-IndicePpal.md) 
