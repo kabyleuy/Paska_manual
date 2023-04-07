@@ -28,7 +28,7 @@ Se dividen en dos tipos:
 * Alertas Informativas  
 * Alertas Operativas  
 \
-Una misma alerta puede tener ambas características en función de sus destinatarios, pero solo una característica específica para cada destinatario.  \
+Una misma alerta puede tener ambas características en función de sus destinatarios, pero solo una característica específica para cada destinatario. 
 
 ### Alertas Informativas 
 El objetivo de estas alertas es mantener informado al usuario, en tiempo real, sobre los distintos eventos que hacen a su rol en la gestión de obra.  \
