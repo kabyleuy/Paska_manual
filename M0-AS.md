@@ -35,7 +35,8 @@
 ### [M0-4 - Informes del M0](./M0.4-Informes_M0.md)
 
 
-##### [Índice de módulos](./IndiceDeModulos.md) 
+##### [Índice de módulos](./2-IndiceDeModulos.md) 
+##### [Índice de contenido](./0-IndicePpal.md) 
 ##### [Inicio](./README.md)  
 <!---#### [Contacto](./Contacto.md)--->
  
